@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lloduye
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Web and Software Development...
+- 🌱 I’m a Web and Software Developer...
 - 💞️ I’m looking to collaborate on basic coding projects
 - 📫 How to reach me email: lloduye@gmail.com
 
